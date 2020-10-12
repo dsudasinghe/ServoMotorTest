@@ -1,2 +1,2 @@
 # SrevoMotorTest
-i created a simple arduino programe to test servo motor :smiley:
+I created a simple arduino programe to test servo motor :smiley:
